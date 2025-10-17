@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Chaima Fouzri</h1>
   <p><strong>🎓 Final-year Computer Engineering Student @ ESPRIT</strong></p>
-  <p><strong>💻 Full Stack Developer </strong></p>
+  <p><strong>💻 Full Stack Developer</strong></p>
   <p>📍 Ben Arous, Tunisia</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayma-fouzri/)
@@ -13,12 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Engineering student** with a strong focus on **Full Stack Development**, **Microservices Architecture**, and **Artificial Intelligence**. I love combining creativity with problem-solving to build scalable, elegant solutions.
+I'm a passionate **Computer Engineering student** with a strong focus on **Full Stack Development**, **Microservices Architecture**, and **Artificial Intelligence**.  
+I love combining creativity with problem-solving to build scalable, elegant solutions.
 
-- 🎯 **Passionate about knowledge sharing** and mentoring aspiring developers
-- 💡 **Interested in** Full Stack Development, Microservices, Cloud Architecture & AI
-- 🧩 **Currently working with** modern tech stacks and best practices
-- 🧠 **Philosophy:** Code with purpose, design with intention, learn continuously
+- 🎯 Passionate about knowledge sharing and mentoring aspiring developers  
+- 💡 Interested in Full Stack Development, Microservices, Cloud Architecture & AI  
+- 🧩 Currently working with modern tech stacks and best practices  
+- 🧠 Philosophy: Code with purpose, design with intention, learn continuously  
 
 ---
 
@@ -28,10 +29,10 @@ I'm a passionate **Computer Engineering student** with a strong focus on **Full 
   <a href="https://github.com/FouzriChayma/FouzriChayma/raw/main/CV_Chaima_Fouzr_version_français.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV">
   </a>
+  <p><em>💬 Always open to new opportunities — feel free to check my CV!</em></p>
 </div>
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -79,41 +80,39 @@ I'm a passionate **Computer Engineering student** with a strong focus on **Full 
 
 ## 💼 What I Do
 
-- **🌐 Full Stack Development** - Building end-to-end applications with modern frameworks
-- **🏗️ Microservices Architecture** - Designing scalable, distributed systems
-- **🤖 AI Integration** - Exploring machine learning and intelligent solutions
-- **📚 Knowledge Sharing** - Teaching and mentoring the next generation of developers
-- **🔄 DevOps & CI/CD** - Automating workflows and ensuring code quality
-- **🎨 UI/UX Design** - Creating beautiful, intuitive user experiences
+- 🌐 **Full Stack Development** — Building end-to-end applications with modern frameworks  
+- 🏗️ **Microservices Architecture** — Designing scalable, distributed systems  
+- 🤖 **AI Integration** — Exploring machine learning and intelligent solutions  
+- 📚 **Knowledge Sharing** — Teaching and mentoring the next generation of developers  
+- 🔄 **DevOps & CI/CD** — Automating workflows and ensuring code quality  
+- 🎨 **UI/UX Design** — Creating beautiful, intuitive user experiences  
 
 ---
 
 ## 🌟 Core Values
 
-\`\`\`
-💡 Innovation  →  Always exploring new technologies and approaches
-🤝 Collaboration  →  Believing in the power of teamwork
-📈 Growth  →  Continuous learning and self-improvement
-✨ Quality  →  Writing clean, maintainable, and efficient code
-🎯 Purpose  →  Building solutions that make a real impact
-\`\`\`
+💡 **Innovation** → Always exploring new technologies and creative solutions  
+🤝 **Collaboration** → Believing in the power of teamwork and shared goals  
+📈 **Growth** → Committed to continuous learning and improvement  
+✨ **Quality** → Writing clean, efficient, and maintainable code  
+🎯 **Purpose** → Building software that makes a real, positive impact  
 
 ---
 
 ## 🔗 Let's Connect
 
-I'm always open to collaborating on interesting projects, discussing tech, or sharing knowledge!
+I'm always open to collaborating on exciting projects, discussing tech, or sharing knowledge!
 
 <div align="center">
   
   **[LinkedIn](https://www.linkedin.com/in/chayma-fouzri/)** • **[GitHub](https://github.com/FouzriChayma)** • **[Email](mailto:chayma.fouzri@esprit.tn)**
-  
+
   <p><em>Feel free to reach out – I'd love to hear from you! 🚀</em></p>
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐ If you find my work interesting, consider giving it a star!</p>
+  <p>⭐ If you find my work inspiring, consider giving it a star!</p>
   <p><strong>Made with ❤️ by Chaima Fouzri</strong></p>
 </div>
