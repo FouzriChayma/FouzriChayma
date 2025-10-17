@@ -22,6 +22,17 @@ I'm a passionate **Computer Engineering student** with a strong focus on **Full 
 
 ---
 
+## 📄 My CV
+
+<div align="center">
+  <a href="https://github.com/FouzriChayma/FouzriChayma/raw/main/CV_Chaima_Fouzr_version_français.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV">
+  </a>
+</div>
+
+---
+
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
