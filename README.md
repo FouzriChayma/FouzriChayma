@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Chaima Fouzri</h1>
   <p><strong>🎓 Final-year Computer Engineering Student @ ESPRIT</strong></p>
-  <p><strong>💻 Full Stack Developer | Tech Educator | DevOps Enthusiast</strong></p>
+  <p><strong>💻 Full Stack Developer </strong></p>
   <p>📍 Ben Arous, Tunisia</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayma-fouzri/)
